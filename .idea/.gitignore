@@ -1,3 +1,9 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+/data
+.idea/
+*.iml
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+target/
