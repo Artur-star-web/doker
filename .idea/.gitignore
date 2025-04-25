@@ -44,5 +44,13 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-./idea
-/data
+
+# Конкретные конфигурационные файлы IDE (если .idea/ не игнорируется целиком)
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Каталог с данными PostgreSQL
+data/
